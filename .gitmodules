@@ -1,0 +1,3 @@
+[submodule "third_party/Megatron-MoE-EA"]
+	path = third_party/Megatron-MoE-EA
+	url = git@github.com:yanring/Megatron-MoE-EA.git

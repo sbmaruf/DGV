@@ -1,0 +1,780 @@
+ar:  
+  sft:
+    Filtered-Ara-Translated-Ultra-Chat: 2.5
+    dpv-trans-Airoboros: 2.5
+    dpv-trans-Alpaca: 2.5
+    dpv-trans-Baize-Chat-Data: 2.5
+    dpv-trans-Book-Summaries: 2.5
+    dpv-trans-Camel-AI-Science: 2.5
+    dpv-trans-Dolly-15k: 2.5
+    dpv-trans-Flan-Collection-Chain-of-Thought: 2.5
+    dpv-trans-Flan-Collection-Dialog: 2.5
+    dpv-trans-GPT-4-Alpaca: 2.5
+    dpv-trans-GPTeacher: 2.5
+    dpv-trans-HC3-English: 2.5
+    dpv-trans-Joke-Explanation: 2.5
+    dpv-trans-Longform: 2.5
+    dpv-trans-NomicAI-GPT4AllJ: 2.5
+    dpv-trans-OIG: 2.5
+    dpv-trans-Open-Assistant: 2.5
+    dpv-trans-OpenAI-Summarize-from-Feedback: 2.5
+    dpv-trans-OpenAI-WebGPT: 2.5
+    dpv-trans-Self-Instruct: 2.5
+    dpv-trans-ShareGPT-Vicuna: 2.5
+    dpv-trans-Tiny-Stories: 2.5
+    dpv-trans-Unnatural-Instructions: 2.5
+    dpv-trans-WizardLM-Evol-Instruct: 2.5
+    dpv-trans-WizardLM-Evol-Instruct-V2: 2.5
+    dpv-trans-openhermes: 2.5
+
+  books:
+    books--Bahith-batch-may1624: 1
+    books--Bahith: 1
+    books--Books-Libaray: 1
+    books--Darah-2: 2
+    books--Darah-Scanner-books: 2
+    books--Darah-books: 2
+    books--DrRabeea: 2
+    books--MinhajLibrary: 2
+    books--SDAIA-Batch-9: 3
+    books--abbjad: 3
+    books--amer-books: 3
+    books--arab-books-com: 3 
+    books--asr-sample-20240720: 1
+    books--bahith: 3
+    books--bog: 1
+    books--book-scanning-oct13-27: 1
+    books--book-scanning-sep24: 1
+    books--book-scanning-sep28: 1
+    books--book-scanning: 1
+    books--darah-history-books-batch-2: 2
+    books--datatreat: 2
+    books--deem-docs: 3
+    books--deem: 3
+    books--diwan-123: 3
+    books--gcambooks: 2 
+    books--gcamdata: 2
+    books--golden-shamela-v2: 3
+    books--gov-batch-jul24-doc: 3
+    books--gov-content-batch-jul24: 2
+    books--gov-guides: 2
+    books--hindawi: 3
+    books--ibook: 3
+    books--imamu: 3
+    books--jadawel: 2
+    books--ketab-n: 2
+    books--ketabonline: 2
+    books--ketabpedia: 2
+    books--kotobati: 2
+    books--ksaa-sep24: 2 
+    books--ksaa: 2
+    books--ksu: 2
+    books--mbr-books: 3
+    books--nan: 1
+    books--noor-batch3: 3
+    books--noor-book-24-sep: 3
+    books--noor-books-27-aug-docs: 3
+    books--noor-books-27-aug: 3
+    books--noor-books-batch-2-docs: 3
+    books--noor-books-pdf2: 3
+    books--noor-books-pdfs: 3
+    books--noor-books: 3 
+    books--nyu-books: 1
+    books--priority-books-apr2024: 3
+    books--priority-books-jan2024: 3
+    books--priority-books-mar2024: 3
+    books--priority-books-mar24kfpnl: 3
+    books--priority-books-may2024-2: 3
+    books--priority-books-may2024: 3
+    books--psau: 3
+    books--quran: 10
+    books--roots-ar-openiti-proc-old: 3
+    books--roots-ar-openiti-proc: 3
+    books--roots-ar-tashkeela: 3
+    books--roots-ar-wikibooks: 3
+    books--scanning-books-6-oct: 1
+    books--sdaia-scraped-pdfs-batch-2: 2
+    books--sdaia-scraped-pdfs-batch-3: 2
+    books--sdaia-scraped-pdfs-batch-4: 2
+    books--sdaia-scraped-pdfs-batch-5: 2
+    books--sdaia-scraped-pdfs-batch-6: 2
+    books--sdaia-scraped-pdfs-batch-9: 2
+    books--semanoor.books: 2
+    books--shamela: 3
+    books--telegram-batch02: 2
+    books--telegram-batch03: 2
+    books--telegram-batch04: 2
+    books--telegram-batch05: 2
+    books--telegram-batch06: 2
+    books--telegram-batch07: 2
+    books--telegram-p01: 2
+    books--جامعة الملك سعود: 2
+  
+  encyclopedias:
+    encyclopedias--Encyclopedia of Islam: 5
+    encyclopedias--SaudiPedia - Arabic: 10
+    encyclopedias--kaahe: 5
+    encyclopedias--marefa: 5
+    encyclopedias--mayo-clinic-arabic: 5
+    # encyclopedias--roots-ar-wikipedia: 10
+    encyclopedias--saudipedia: 10
+    encyclopedias--sdaia-scraped-encyclopedias-batch-1: 5
+    encyclopedias--sdaia-scraped-encyclopedias-batch-3: 5
+    encyclopedias--sdaia-scraped-encyclopedias-batch-4: 5
+    encyclopedias--sdaia-scraped-encyclopedias-batch-9: 5
+    encyclopedias--webteb: 5
+    encyclopedias--wiki-20240420: 5
+  
+  local: 
+    local--Gov-content-batch-jan24: 2
+    local--apd: 3
+    local--capital-market-authority-pdfs: 5
+    local--correction-and-rehabilitation-center: 2
+    local--darah: 2
+    local--ecza: 2
+    local--gov-content-batch-jul24: 2
+    local--hrdf: 2
+    local--hrsd: 2
+    local--ids: 2
+    local--kapl: 2
+    local--kapsarc: 2
+    local--ksaa: 2
+    local--moi: 2
+    local--moj: 2
+    local--mot: 2
+    local--mygovsa: 2
+    local--ncar2: 2
+    local--ncar3: 2
+    local--ncar4: 2
+    local--ncar: 2
+    local--pss-ar-twitter: 2
+    local--safiu: 2
+    local--sfda: 2
+    local--sgs: 2
+    local--shc: 2
+    local--uhb: 2
+    local--umm-alqura: 2
+    local--zatca: 2
+    local--اتحاد الغرف السعودية: 2
+    local--المؤسسة العامة للتدريب التقني والمهني: 2
+    local--الهيئة الوطنية للأمن السيبراني: 2
+    local--الهيئة العامة للأمن الغذائي: 2
+    local--الهيئة العامة للغذاء والدواء: 2
+    local--هيئة الرقابة النووية والاشعاعية: 2
+    local--هيئة الهلال الأحمر السعودي: 2
+    local--وزارة البيئة والمياه والزراعة: 2
+    local--وزارة الطاقة: 2
+    local--وزارة المالية: 2
+  
+  news:
+    news--Al Watan: 2
+    news--AlArabia: 2
+    news--AlMadina: 2 
+    news--AlWatan: 2
+    news--Aloula:  2
+    news--Makkah: 2
+    news--Robb report Web: 2
+    news--SBC: 2
+    news--SaudiBroadcastingAuthority (SBA): 2
+    news--Sayidatyweb: 2
+    news--aawsatweb: 2
+    news--abu-elkhair: 2
+    news--ajdir: 2
+    # news--alhayat-newspaper-archive: 2
+    news--aljazera-newspaper: 2
+    news--almadina-newspaper-archive: 2
+    # news--almajallahweb: ###2
+    news--alriyadh-newspaper: 2
+    news--alwatan-newspaper-archives: 2
+    news--alwatan-newspaper: 2
+    news--alyoum-newspaper: 2
+    news--amina: 2
+    news--apptek-newspaper-scraping: 2
+    news--aranpcc: 2
+    news--eqtisadiyahnp: 2
+    news--gigaword-5th-arabic: 2
+    news--hiaweb: 2
+    news--independentarabiyahweb: 2
+    news--independenturduweb: 2
+    news--iwan-anad: 2
+    news--makkah-newspaper-archives: 2
+    news--makkah-newspaper: 2
+    news--metadialog-news: 2
+    news--mnad: 2
+    news--newspaper-scraping: 2
+    news--newstent: 2
+    news--roots-ar-sanad: 2
+    news--roots-ar-wikinews: 2
+    news--sdaia-scraped-news-batch-8: 2
+    news--spa-news-20y: 2
+    news--ummalquranp: 2
+
+  others:
+    others--almojam-org: 3
+    others--alpheratzmag: 2
+    others--artravelers: 2
+    others--brad: 2
+    others--deem-docs: 3
+    others--deem: 2
+    others--forums-from-hdd: 1
+    others--gov-guides: 2
+    others--hekma: 2
+    others--ketabpedia: 1
+    others--mawdoo3: 3
+    others--noor-books-27-aug-docs: 3
+    others--noor-books-batch-2-docs: 3
+    others--noor-books-pdf2: 1
+    others--noor-books-pdfs: 1
+    others--ocr-eval: 1
+    others--rasael-alarabiya: 1
+    others--roots-ar-labr: 2
+    others--roots-ar-uncorpus: 2
+    others--roots-ar-wikiquote: 2
+    others--roots-ar-wikisource: 2
+    others--roots-ar-wikiversity: 2
+    others--roots-ar-wiktionary: 2
+    others--sdaia-scraped-books-batch-1: 1
+    others--sdaia-scraped-books-batch-2: 1
+    others--sdaia-scraped-others-batch-10: 1
+    others--sdaia-scraped-others-batch-11: 1
+    others--sdaia-scraped-others-batch-12: 1
+    others--sdaia-scraped-others-batch-1: 1
+    others--sdaia-scraped-others-batch-2: 1
+    others--sdaia-scraped-others-batch-3: 1
+    others--sdaia-scraped-others-batch-4: 1
+    others--sdaia-scraped-others-batch-5: 1
+    others--sdaia-scraped-others-batch-6: 1
+    others--sdaia-scraped-others-batch-7: 1
+    others--sdaia-scraped-others-batch-8: 1
+    others--sdaia-scraped-others-batch-9: 1
+    others--sdaia-scraped-pdfs-batch-2: 1
+    others--sdaia-scraped-pdfs-batch-5: 1
+    others--semanoor.books: 1
+    others--startimes: 3
+    others--telegram-batch03: 2
+    others--uqu-poetry-encyclopedia: 3
+  
+  scientific:
+    scientific--Bahith: 2.5
+    scientific--DrRabeea: 2.5
+    scientific--Gov-content-batch-jan24: 2.5
+    scientific--PDF-Batch-11: 2.5
+    scientific--SDAIA-Batch-10: 2.5
+    scientific--SDAIA-Batch-7: 2.5
+    scientific--SDAIA-Batch-8: 2.5
+    scientific--SDAIA-Batch-9: 2.5
+    scientific--bahith: 2.5
+    scientific--datatreat: 2.5
+    scientific--deem: 2.5
+    scientific--fa: 2.5
+    scientific--gov-batch-jul24-doc: 2.5
+    scientific--gov-content-batch-jul24: 2.5
+    scientific--gph: 2.5
+    scientific--imamu: 2.5
+    scientific--iu: 2.5
+    scientific--ju: 2.5
+    scientific--kapsarc: 2.5
+    scientific--kfnl: 2.5
+    scientific--ksaa:  2.5
+    scientific--ksu: 2.5
+    scientific--mohamedrabeea: 2.5
+    scientific--mohe-gov-sy: 2.5
+    scientific--noor-books: 2.5
+    scientific--pnu: 2.5
+    scientific--psau: 2.5
+    scientific--qu: 2.5
+    scientific--rasael-alarabiya: 2.5
+    scientific--scientific-american-arabic: 2.5
+    scientific--sdaia-scraped-books-batch-5: 2.5
+    scientific--sdaia-scraped-pdfs-batch-1: 2.5
+    scientific--sdaia-scraped-pdfs-batch-2: 2.5
+    scientific--sdaia-scraped-pdfs-batch-3: 2.5
+    scientific--sdaia-scraped-pdfs-batch-4: 2.5
+    scientific--sdaia-scraped-pdfs-batch-5:  2.5
+    scientific--sdaia-scraped-pdfs-batch-6: 2.5
+    scientific--sdaia: 2.5
+    scientific--telegram-batch07: 2.5
+    scientific--tu: 2.5
+    scientific--uhb: 2.5
+    scientific--جامعة الملك سعود: 2.5
+    scientific--وزارة الحرس الوطني: 2.5
+  
+  transcribed:
+    transcribed--AudioKetab: 1
+    transcribed--akhdar: 1
+    transcribed--alarwi-App: 1
+    transcribed--fanajeen-App: 1
+    transcribed--habibi: 1
+    transcribed--mgb2: 1
+    transcribed--opensubtitles: 1
+    transcribed--roots-ar-ted-talks-iwslt: 1
+    transcribed--wajeez: 1
+  
+  translated:
+    translated--En-wikipedia-split-translated: 1
+    translated--PubMed-Abstracts: 1
+    translated--en2ar-Pile-FreeLaw: 1
+    translated--en2ar-books-corpus-formatted: 1
+    translated--en2ar-c4: .5
+    translated--en2ar-peS2o: 1
+    translated--finewebedu-10bt: 1
+    translated--translated-wiki: 1
+
+    # llama-v7-translated--En-wikipedia-split-translated: 1
+    # llama-v7-translated--PubMed-Abstracts: 1
+    # llama-v7-translated--en-fineweb-sample-10bt: 1
+    # llama-v7-translated--en2ar-Pile-FreeLaw: 1
+    # llama-v7-translated--en2ar-books-corpus-formatted: 1
+    # llama-v7-translated--en2ar-c4: 1
+    # llama-v7-translated--en2ar-peS2o: 1
+    # llama-v7-translated--enwiki-0624: 1
+
+  web:
+    restructured-web--ClusterlabAi-101B--Accounting: 1
+    restructured-web--ClusterlabAi-101B--Arabic Language: 3
+    restructured-web--ClusterlabAi-101B--Biology: 2
+    restructured-web--ClusterlabAi-101B--Chemistry: 2
+    restructured-web--ClusterlabAi-101B--Computer Science: 3
+    restructured-web--ClusterlabAi-101B--Economy: 2
+    restructured-web--ClusterlabAi-101B--Education: 3
+    restructured-web--ClusterlabAi-101B--Engineering: 2
+    restructured-web--ClusterlabAi-101B--Ethics: 1
+    restructured-web--ClusterlabAi-101B--Finance: 1
+    restructured-web--ClusterlabAi-101B--Geology: 1
+    restructured-web--ClusterlabAi-101B--HR: 1
+    restructured-web--ClusterlabAi-101B--Health and Medicine: 1
+    restructured-web--ClusterlabAi-101B--History: 3
+    restructured-web--ClusterlabAi-101B--Law: 1
+    restructured-web--ClusterlabAi-101B--Literature: 3
+    restructured-web--ClusterlabAi-101B--Management: 1
+    restructured-web--ClusterlabAi-101B--Marketing: 1
+    restructured-web--ClusterlabAi-101B--Mathematics: 3
+    restructured-web--ClusterlabAi-101B--Other: 1
+    restructured-web--ClusterlabAi-101B--Philosophy: 1
+    restructured-web--ClusterlabAi-101B--Physics: 2
+    restructured-web--ClusterlabAi-101B--Poetry: 3
+    restructured-web--ClusterlabAi-101B--Politics: 1
+    restructured-web--ClusterlabAi-101B--Psychology: 1
+    restructured-web--ClusterlabAi-101B--Religion: 3
+    restructured-web--ClusterlabAi-101B--Self Development: 3
+    restructured-web--ClusterlabAi-101B--Sociology: 1
+    restructured-web--ClusterlabAi-101B--Sports: 1
+    restructured-web--ClusterlabAi-101B--Tourism: 1
+    restructured-web--ClusterlabAi-101B--Travel: 1
+    restructured-web--CulturaX-ar--Accounting: 2
+    restructured-web--CulturaX-ar--Arabic Language: 3
+    restructured-web--CulturaX-ar--Biology: 2
+    restructured-web--CulturaX-ar--Chemistry: 2
+    restructured-web--CulturaX-ar--Computer Science: 3
+    restructured-web--CulturaX-ar--Economy: 2
+    restructured-web--CulturaX-ar--Education: 3
+    restructured-web--CulturaX-ar--Engineering: 2
+    restructured-web--CulturaX-ar--Ethics: 1
+    restructured-web--CulturaX-ar--Finance: 1
+    restructured-web--CulturaX-ar--Geology: 1
+    restructured-web--CulturaX-ar--HR: 1
+    restructured-web--CulturaX-ar--Health and Medicine: 1
+    restructured-web--CulturaX-ar--History: 3
+    restructured-web--CulturaX-ar--Law: 1
+    restructured-web--CulturaX-ar--Literature: 3
+    restructured-web--CulturaX-ar--Management: 1
+    restructured-web--CulturaX-ar--Marketing: 1
+    restructured-web--CulturaX-ar--Mathematics: 3
+    restructured-web--CulturaX-ar--Other: 1
+    restructured-web--CulturaX-ar--Philosophy: 1
+    restructured-web--CulturaX-ar--Physics: 2
+    restructured-web--CulturaX-ar--Poetry: 3
+    restructured-web--CulturaX-ar--Politics: 1
+    restructured-web--CulturaX-ar--Psychology: 1
+    restructured-web--CulturaX-ar--Religion: 3
+    restructured-web--CulturaX-ar--Self Development: 3
+    restructured-web--CulturaX-ar--Sociology: 1
+    restructured-web--CulturaX-ar--Sports: 1
+    restructured-web--CulturaX-ar--Tourism: 1
+    restructured-web--CulturaX-ar--Travel: 1
+    restructured-web--arabicweb16-v3--Accounting: 2
+    restructured-web--arabicweb16-v3--Arabic Language: 3
+    restructured-web--arabicweb16-v3--Biology: 2
+    restructured-web--arabicweb16-v3--Chemistry: 2
+    restructured-web--arabicweb16-v3--Computer Science: 3
+    restructured-web--arabicweb16-v3--Economy: 2
+    restructured-web--arabicweb16-v3--Education: 3
+    restructured-web--arabicweb16-v3--Engineering: 2
+    restructured-web--arabicweb16-v3--Ethics: 1
+    restructured-web--arabicweb16-v3--Finance: 1
+    restructured-web--arabicweb16-v3--Geology: 1
+    restructured-web--arabicweb16-v3--HR: 1
+    restructured-web--arabicweb16-v3--Health and Medicine: 1
+    restructured-web--arabicweb16-v3--History: 3
+    restructured-web--arabicweb16-v3--Law: 1
+    restructured-web--arabicweb16-v3--Literature: 3
+    restructured-web--arabicweb16-v3--Management: 1
+    restructured-web--arabicweb16-v3--Marketing: 1
+    restructured-web--arabicweb16-v3--Mathematics: 3
+    restructured-web--arabicweb16-v3--Other: 1
+    restructured-web--arabicweb16-v3--Philosophy: 1
+    restructured-web--arabicweb16-v3--Physics: 2
+    restructured-web--arabicweb16-v3--Poetry: 3
+    restructured-web--arabicweb16-v3--Politics: 1
+    restructured-web--arabicweb16-v3--Psychology: 1
+    restructured-web--arabicweb16-v3--Religion: 3
+    restructured-web--arabicweb16-v3--Self Development: 3
+    restructured-web--arabicweb16-v3--Sociology: 1
+    restructured-web--arabicweb16-v3--Sports: 1
+    restructured-web--arabicweb16-v3--Tourism: 1
+    restructured-web--arabicweb16-v3--Travel: 1
+    restructured-web--arabicweb22--Accounting: 2
+    restructured-web--arabicweb22--Arabic Language: 3
+    restructured-web--arabicweb22--Biology: 2
+    restructured-web--arabicweb22--Chemistry: 2
+    restructured-web--arabicweb22--Computer Science: 3
+    restructured-web--arabicweb22--Economy: 2
+    restructured-web--arabicweb22--Education: 3
+    restructured-web--arabicweb22--Engineering: 2
+    restructured-web--arabicweb22--Ethics: 1
+    restructured-web--arabicweb22--Finance: 1
+    restructured-web--arabicweb22--Geology: 1
+    restructured-web--arabicweb22--HR: 1
+    restructured-web--arabicweb22--Health and Medicine: 1
+    restructured-web--arabicweb22--History: 3
+    restructured-web--arabicweb22--Law: 1
+    restructured-web--arabicweb22--Literature: 3
+    restructured-web--arabicweb22--Management: 1
+    restructured-web--arabicweb22--Marketing: 1
+    restructured-web--arabicweb22--Mathematics: 3
+    restructured-web--arabicweb22--Other: 1
+    restructured-web--arabicweb22--Philosophy: 1
+    restructured-web--arabicweb22--Physics: 2
+    restructured-web--arabicweb22--Poetry: 3
+    restructured-web--arabicweb22--Politics: 1
+    restructured-web--arabicweb22--Psychology: 1
+    restructured-web--arabicweb22--Religion: 3
+    restructured-web--arabicweb22--Self Development: 3
+    restructured-web--arabicweb22--Sociology: 1
+    restructured-web--arabicweb22--Sports: 1
+    restructured-web--arabicweb22--Tourism: 1
+    restructured-web--arabicweb22--Travel: 1
+    restructured-web--arabicweb24--Accounting: 2
+    restructured-web--arabicweb24--Arabic Language: 3
+    restructured-web--arabicweb24--Biology: 2
+    restructured-web--arabicweb24--Chemistry: 2
+    restructured-web--arabicweb24--Computer Science: 3
+    restructured-web--arabicweb24--Economy: 2
+    restructured-web--arabicweb24--Education: 3
+    restructured-web--arabicweb24--Engineering: 2
+    restructured-web--arabicweb24--Ethics: 1
+    restructured-web--arabicweb24--Finance: 1
+    restructured-web--arabicweb24--Geology: 1
+    restructured-web--arabicweb24--HR: 1
+    restructured-web--arabicweb24--Health and Medicine: 1
+    restructured-web--arabicweb24--History: 3
+    restructured-web--arabicweb24--Law: 1
+    restructured-web--arabicweb24--Literature: 3
+    restructured-web--arabicweb24--Management: 1
+    restructured-web--arabicweb24--Marketing: 1
+    restructured-web--arabicweb24--Mathematics: 3
+    restructured-web--arabicweb24--Other: 1
+    restructured-web--arabicweb24--Philosophy: 1
+    restructured-web--arabicweb24--Physics: 2
+    restructured-web--arabicweb24--Poetry: 3
+    restructured-web--arabicweb24--Politics: 1
+    restructured-web--arabicweb24--Psychology: 1
+    restructured-web--arabicweb24--Religion: 3
+    restructured-web--arabicweb24--Self Development: 3
+    restructured-web--arabicweb24--Sociology: 1
+    restructured-web--arabicweb24--Sports: 1
+    restructured-web--arabicweb24--Tourism: 1
+    restructured-web--arabicweb24--Travel: 1
+    restructured-web--hplt-project--Accounting: 2
+    restructured-web--hplt-project--Arabic Language: 3
+    restructured-web--hplt-project--Biology: 2
+    restructured-web--hplt-project--Chemistry: 2
+    restructured-web--hplt-project--Computer Science: 3
+    restructured-web--hplt-project--Economy: 1
+    restructured-web--hplt-project--Education: 3
+    restructured-web--hplt-project--Engineering: 2
+    restructured-web--hplt-project--Ethics: 1
+    restructured-web--hplt-project--Finance: 1
+    restructured-web--hplt-project--Geology: 1
+    restructured-web--hplt-project--HR: 1
+    restructured-web--hplt-project--Health and Medicine: 1
+    restructured-web--hplt-project--History: 3
+    restructured-web--hplt-project--Law: 1
+    restructured-web--hplt-project--Literature: 3
+    restructured-web--hplt-project--Management: 1
+    restructured-web--hplt-project--Marketing: 1
+    restructured-web--hplt-project--Mathematics: 3
+    restructured-web--hplt-project--Other: 1
+    restructured-web--hplt-project--Philosophy: 1
+    restructured-web--hplt-project--Physics: 2
+    restructured-web--hplt-project--Poetry: 3
+    restructured-web--hplt-project--Politics: 1
+    restructured-web--hplt-project--Psychology: 1
+    restructured-web--hplt-project--Religion: 3
+    restructured-web--hplt-project--Self Development: 3
+    restructured-web--hplt-project--Sociology: 1
+    restructured-web--hplt-project--Sports: 1
+    restructured-web--hplt-project--Tourism: 1
+    restructured-web--hplt-project--Travel: 1
+    # restructured-web--metadialog--Accounting: 2
+    # restructured-web--metadialog--Arabic Language: 3
+    # restructured-web--metadialog--Biology: 2
+    # restructured-web--metadialog--Chemistry: 2
+    # restructured-web--metadialog--Computer Science: 3
+    # restructured-web--metadialog--Economy: 1
+    # restructured-web--metadialog--Education: 3
+    # restructured-web--metadialog--Engineering: 2
+    # restructured-web--metadialog--Ethics: 1
+    # restructured-web--metadialog--Finance: 1
+    # restructured-web--metadialog--Geology: 1
+    # restructured-web--metadialog--HR: 1
+    # restructured-web--metadialog--Health and Medicine: 1
+    # restructured-web--metadialog--History: 3
+    # restructured-web--metadialog--Law: 1
+    # restructured-web--metadialog--Literature: 3
+    # restructured-web--metadialog--Management: 1
+    # restructured-web--metadialog--Marketing: 1
+    # restructured-web--metadialog--Mathematics: 3
+    # restructured-web--metadialog--Other: 1
+    # restructured-web--metadialog--Philosophy: 1
+    # restructured-web--metadialog--Physics: 2
+    # restructured-web--metadialog--Poetry: 3
+    # restructured-web--metadialog--Politics: 1
+    # restructured-web--metadialog--Psychology: 1
+    # restructured-web--metadialog--Religion: 3
+    # restructured-web--metadialog--Self Development: 3
+    # restructured-web--metadialog--Sociology: 1
+    # restructured-web--metadialog--Sports: 1
+    # restructured-web--metadialog--Tourism: 1
+    # restructured-web--metadialog--Travel: 1
+    restructured-web--oscar2301--Accounting: 2
+    restructured-web--oscar2301--Arabic Language: 3
+    restructured-web--oscar2301--Biology: 2
+    restructured-web--oscar2301--Chemistry: 2
+    restructured-web--oscar2301--Computer Science: 3
+    restructured-web--oscar2301--Economy: 1
+    restructured-web--oscar2301--Education: 3
+    restructured-web--oscar2301--Engineering: 2
+    restructured-web--oscar2301--Ethics: 1
+    restructured-web--oscar2301--Finance: 1
+    restructured-web--oscar2301--Geology: 1
+    restructured-web--oscar2301--HR: 1
+    restructured-web--oscar2301--Health and Medicine: 1
+    restructured-web--oscar2301--History: 3
+    restructured-web--oscar2301--Law: 1
+    restructured-web--oscar2301--Literature: 3
+    restructured-web--oscar2301--Management: 1
+    restructured-web--oscar2301--Marketing: 1
+    restructured-web--oscar2301--Mathematics: 3
+    restructured-web--oscar2301--Other: 1
+    restructured-web--oscar2301--Philosophy: 1
+    restructured-web--oscar2301--Physics: 3
+    restructured-web--oscar2301--Poetry: 4
+    restructured-web--oscar2301--Politics: 1
+    restructured-web--oscar2301--Psychology: 1
+    restructured-web--oscar2301--Religion: 3
+    restructured-web--oscar2301--Self Development: 3
+    restructured-web--oscar2301--Sociology: 1
+    restructured-web--oscar2301--Sports: 1
+    restructured-web--oscar2301--Tourism: 1
+    restructured-web--oscar2301--Travel: 1
+    # llama-v7-web--ClusterlabAi-101B: 1
+    # llama-v7-web--CulturaX-ar: 1
+    # llama-v7-web--arabicweb16-v3: 1
+    # llama-v7-web--arabicweb22: 1
+    # llama-v7-web--hplt-project: 1
+    # llama-v7-web--metadialog: 0.5
+    # llama-v7-web--oscar2301: 1
+
+code:
+  high-resource:
+    JSON-with-Comments: 1
+    # HTML: 0.001
+    JSON: 0.0010
+    YAML: 0.025
+    JavaScript: 0.045
+    Java: 0.1
+    # Jupyter-Notebook: 0
+    Jupyter-Notebook-Processed: 2.5
+
+  priority:
+    Python: 1.5
+    C++: 1
+    C: 1
+    Coq: 2 # 1.8 epochs
+    Go: 1
+    # Julia: 6
+    # Kotlin: 1
+    Lean: 1 # 1.8 epochs
+    MATLAB: 1.5 # 1.2 epoch
+    Mathematica: 1
+    # Pascal: 1
+    # Ruby: 1
+    Rust: 1 # 1.1 epoch
+    # Scala: 1
+    # TypeScript: 1
+
+  other:
+    # jq: 0
+    WebAssembly: 1
+    # Web-Ontology-Language: 0
+    # Visual-Basic-.NET: 0
+    # Vim: 0
+    # Vim-Snippet: 0
+    # Vim-Script: 0
+    # Vim-Help-File: 0
+    # Unix-Assembly: 0
+    # TypeScript: 0
+    TeX: 1
+    # Swift: 0
+    # Stata: 0
+    # Shell: 0
+    # ShellSession: 1
+    # ShellCheck-Config: 1
+    Shell-ShellCheck-Config-ShellSession-Awk-sed-jq: 1
+    Rust: 1
+    # Ren-Py: 0
+    # Q-Sharp: 0
+    Prolog: 1
+    PowerShell: 1
+    # PostScript: 0
+    OpenCL: 1
+    Objective-C: 1
+    Objective-C++: 1
+    # OCaml: 0
+    # NumPy: 0
+    # Nginx: 0
+    LLVM: 1
+    # GraphQL: 0
+    # Graph-Modeling-Language-GraphQL: 0
+    # Go-Module: 0
+    # Gnuplot: 0
+    # Glyph: 0
+    # Glyph-Bitmap-Distribution-Format: 0
+    Glyph-Bitmap-Distribution-Format-Glyph: 1
+    # Git-Revision-List: 0
+    # Git-Config: 0
+    # Git-Attributes: 0
+    # GDB: 0
+    # FreeBasic: 0
+    Fortran: 1
+    # F-Sharp: 0
+    # Elixir: 0
+    Cython-FreeBasic-GDB-Git-Attributes-Git-Config-Git-Revision-List-Go-Module-OpenCL-Q-Sharp-jq-sed-NumPy: 2
+    BibTeX: 1
+    # Brainfuck-Jinja-Nginx-Ren-Py: 0
+    C-Sharp: 1
+    # COBOL: 0
+    # CSS: 1
+    Cuda: 1
+    CMake: 1
+    # Brainfuck: 0
+    # Awk: 1
+    # Assembly: 0
+    Markdown: 2
+    RMarkdown: 2
+    SQL: 0.13
+    # BibTeX: 0.001 # .bib files not latex
+    # COBOL: 0.1
+    Dockerfile: 0.1
+    HTML+PHP: 0.1
+    PHP: 0.1
+    PLSQL: 1
+    SPARQL: 1 # 1 epoch
+    
+en:
+  web: 
+    dclm-baseline-1: .4
+  #   Pile-ArXiv: 1
+  #   Pile-CC: 1
+  #   SlimPajamaC4: 1
+  #   dolma-c4: 1
+  #   SlimPajamaCommonCrawl: 1
+  #   dolma-common-crawl: 1
+  #   red-pajama-v2-ip: 1
+      
+  education:
+    # en_fineweb-main: 1
+    fineweb-sample-100bt: 1
+    # fineweb-sample-10bt: 1
+    # fineweb-sample-350bt: 1
+    
+  books:
+    github-books-maruf-crawl-enfiltered: 3
+    Pile-books2-books3-pgtbrg: 2
+    # SlimPajamaBook: 1
+    textbooks-medrag-medilora-sciphi-sciriff-python-chem: 2
+    # dolma-gutenberg-books: 1
+    maruf-scrape: 3
+    nampdn-ai-tiny-strange-textbooks: 2
+    Medilora-us-medical-license-exam-textbooks-en: 3
+    
+
+  wiki:
+    # Pile-Wikipedia-en: 1
+    # SlimPajamaWikipedia: 1
+    # dolma-wiki-en-simple: 5 # bring the latest english one
+    wikipedia-0624: 4
+
+  math: # 5
+    Pile-DM-Mathematics: 2
+    MathPile-arxiv: 2
+    MathPile-commoncrawl: 2
+    MathPile-mixed: 2
+    MathPile-textbooks: 2
+    MathPile-wiki-proofwiki-mixed: 2
+    openwebmath: 2
+
+  scientific:
+    # Pile-PubMed-Abstracts: .3
+    # Pile-PubMed-Central: .2
+    # Pile-USPTO-Backgrounds: .2
+    # SlimPajamaArXiv: 2
+    dolma-peS2o: 1
+
+  QA:
+    Pile-StackExchange: 1
+    SlimPajamaStackExchange: 1
+
+  law:
+    Pile-FreeLaw: 1
+
+  conversational:
+    Pile-OpenSubtitles: 1
+    Pile-OpenWebText2: 1
+    Pile-enron-hn-nexpt-phil-ubuntu-yt-ep: 1
+
+  code:
+    # Pile-Github: 1
+    code-search-net: 1
+    # SlimPajamaGithub: 1
+    # dolma-stack-code: 1
+    github-maruf-crawl: 3
+    
+
+  sft:
+    Buzz-V1.2sys: 1
+    Infinity-Instruct: 1
+    OpenMathInstruct1-MetaMathQA-PawanKrd-math: 1
+    xP3x-pretrain: 0.1
+    flan-v2-cot: 1
+    flan-v2-dialog: 1
+    flan-v2-flan-orig: 1
+    flan-v2-niv: 1
+    flan-v2-t0: 1
+    math-ai-AutoMathText-arxiv-full: 1
+    math-ai-AutoMathText-code-full: 1
+    math-ai-AutoMathText-web-full: 1
+    aya-dataset: 1
+    WebInstructSub: 1
+    
+
+# trans-ar:
+#   web:
+#     c4: 1
+#   books:
+#     books3: 1
+#   scientific:
+#     peS20: 1
+#   wiki:
+#     wiki: 1
